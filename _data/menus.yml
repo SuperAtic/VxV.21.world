@@ -11,7 +11,7 @@ main:
   - name: "Guías"
     url: "/guides/"
     weight: 4
-  - name: "Contribuye"
+  - name: "Contribuir"
     url: "/contact/"
     weight: 5
 
@@ -19,6 +19,18 @@ footer:
   - name: "Inicio"
     url: "/"
     weight: 1
-  - name: "Contribuir"
-    url: "/contact/"
+ - name: "Philosofìa"
+    url: "/about/"
     weight: 2
+  - name: "Piezas"
+    url: "/pieces/"
+    weight: 3
+  # - name: "People"
+  #   url: "/team/"
+  #   weight: 4
+  - name: "Guías"
+    url: "/guides/"
+    weight: 5
+  # - name: "Contribuir"
+  #   url: "/contact/"
+  #   weight: 6
