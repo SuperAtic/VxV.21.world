@@ -4,8 +4,7 @@ date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-Si lo encuentras valioso, le devuelves valor en forma de tiempo, talento o tesoro.
-tesoro. En realidad, eso es todo.
+Si lo encuentras valioso, le devuelves valor en forma de tiempo, talento o tesoro. En realidad, eso es todo.
 
 
 - **Tiempo**: Tu tiempo y tu atención son valiosos. Gastarlos es valioso en sí mismo.

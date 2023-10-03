@@ -26,33 +26,31 @@ pasar de una mentalidad de escasez a una mentalidad de abundancia.
 
 [pieces]: {{ '/piezas' | absolute_url }}
 
-> Podcasting really flipped the scarcity-based economy of radio broadcasting on
-> its head.
+> El podcasting realmente dio la vuelta a la economía basada en la escasez de la radiodifusión en su cabeza.
 >
 > <cite>[Adam Curry](https://youtu.be/8RNsFNyCHL4?t=19964)</cite>
 
 ---
 
-[![Adam talking VxV @ BitBlockBoom 2022](/images/bitblockboom.jpg)](https://youtu.be/8RNsFNyCHL4?t=19964)
+[![Adam hablando VxV @ BitBlockBoom 2022](/images/bitblockboom.jpg)](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
+Mira la charla: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-Listen to Adam talk VxV on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/):
+Escucha Adam hablando de VxV en [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/):
 [![Adam talking VxV on TFTC](/images/409-Adam-Curry.png)](https://youtu.be/meAO2plwnXw)
 
 ---
 
-The VxV model provides a solution to the problem of selling information. A
-solution that allows you to step away from the attention and surveillance
-economy, towards an economy of _value_, openness, and abundance.
+El modelo VxV ofrece una solución al problema de la venta de información. A
+solución que permite alejarse de la economía de la atención y la vigilancia
+hacia una economía de _valor_, apertura y abundancia.
 
-> The solution begins with acceptance. Selling digital content in the
-> traditional, transactional way doesn't work, or at least doesn't work very
-> well. A transaction involving a digital photograph of an apple is very
-> different than a transaction involving a physical apple.
+> La solución empieza por la aceptación. Selling digital content in the
+> tradicional, transaccional, no funciona, o al menos no funciona muy
+> bien. Una transacción de una fotografía digital de una manzana es muy diferente de una transacción de una manzana física.
 >
 > <cite>[Gigi D.][busking]</cite>
 
 [busking]: https://dergigi.com/2021/12/30/the-freedom-of-value/#accept-the-nature-of-information
 
-Want to get started? Follow one of the [guides]({{ '/guides' | absolute_url }})!
+¿Quieres empezar? ¡Sigue una de las [guías]({{ '/guías' | absolute_url }})!
