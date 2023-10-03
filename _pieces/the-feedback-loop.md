@@ -1,16 +1,16 @@
 ---
-title: "The Feedback Loop"
+title: "Bucle de retroalimentación"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-A more direct relationship with your audience, leading to a dynamic feedback
-loop of co-creation. Gone are the days of static broadcasting.
+Una relación más directa con su público, que conduce a un bucle de retroalimentación
+de co-creación. Se acabaron los días de la difusión estática.
 
-Metrics are deceiving, value is not.
+Las métricas engañan, el valor no.
 
-1. [Ask][ask]
-2. Acknowledge
-3. Repeat
+1. [Preguntar][preguntar]
+2. Reconozca
+3. Repita
 
-[ask]: {{ '/pieces/the-ask/' | absolute_url }}
+[preguntar]: {{ '/piezas/la-pregunta/' | absolute_url }}

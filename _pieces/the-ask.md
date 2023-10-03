@@ -1,12 +1,12 @@
 ---
-title: "Ask and People Will Give"
+title: "Pide y la gente te dará"
 date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-*The Ask* is the most important piece of the puzzle. The number one reason people do
-not give is because they weren't asked, and the same holds true for the Value4Value model.
+*El Pedir* es la pieza más importante del rompecabezas. La razón número uno por la que la gente
+no dan es porque no se les preguntó, y lo mismo ocurre con el modelo Value4Value.
 
-There is an art in asking your audience to give back, and it will be different
-depending on medium, demographics, and other factors. But one thing remains:
-you'll have to ask.
+Hay un arte en pedir a su público que dé algo a cambio, y será diferente en función del medio, la demografía y el público.
+dependiendo del medio, la demografía y otros factores. Pero una cosa es cierta:
+tendrás que pedirlo.

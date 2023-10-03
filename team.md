@@ -1,13 +1,13 @@
 ---
-title: Team
+title: Equipo
 layout: teams
-description: Team
+description: Equipo
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# The People Behind the V4V Movement
+# La gente detrás del movimiento VxV
 
-Started over 15 years ago, now struck by Lightning and
-rekindled by an orange flame.
+Iniciado hace más de 15 años, ahora golpeado por un rayo y
+reavivado por una llama naranja.

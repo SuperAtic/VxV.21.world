@@ -1,20 +1,20 @@
 ---
-title: "Way of Life"
+title: "Forma de vivir"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-Value4Value is more than a monetization scheme; it's a lifestyle. It's a
-mindset of abundance and fairness, a new way of looking at value—value in
-general, but digital value in particular.
+Value4Value es más que un plan de monetización: es un estilo de vida. Es una
+Es una mentalidad de abundancia y equidad, una nueva forma de ver el valor.
+valor en general, pero valor digital en particular.
 
-It is hard to put a finger on the V4V lifestyle, but one could summarize it as
-follows:
+Es difícil definir el estilo de vida V4V, pero podría resumirse así
+así:
 
-- No expectations
-- No entitlement
-- No bullshit
+- Sin expectativas
+- Sin derechos
+- Sin tonterías
 
-It is a trust in the universe and its people, a trust that if you produce something of value, people will find it valuable and give back. If you [ask them][ask], that is.
+Es una confianza en el universo y su gente, una confianza en que si produces algo de valor, la gente lo encontrará valioso y te lo devolverá. Si [les] [pides], es decir.
 
-[ask]: {{ '/pieces/the-ask/' | absolute_url }}
+[pedir]: {{ '/piezas/la-pregunta/' | absolute_url }}

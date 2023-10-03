@@ -1,17 +1,17 @@
 ---
-title: "No Deplatforming"
+title: "No Desplataformación"
 date: 2019-05-18T12:33:46+10:00
 weight: 9
 ---
 
-An increasing number of people is getting deplatformed from all kinds of
-services. Whether you are booted off YouTube, banned from Twitter, kicked from
-PayPal, or removed from the SWIFT network, the result is always the same:
-someone in power doesn't want you to do a certain thing, which is why your
-access to said thing is being denied.
+Cada vez son más las personas que se desploman de todo tipo de
+servicios. Ya sea que te echen de YouTube, te prohíban entrar en Twitter, te den la patada en
+PayPal, o eliminado de la red SWIFT, el resultado es siempre el mismo:
+alguien en el poder no quiere que hagas una determinada cosa, por lo que tu
+acceso a dicha cosa.
 
-Value4Value is an idea that builds upon protocols, not platforms. It is an
-idea that connects people directly, in ways that can't be shut down, can't be
-censored, can't be stopped. Open protocols and open standards allow for a
-flourishing ecosystem of competing service providers, in addition to giving you
-the option to do everything yourself.
+Value4Value es una idea que se basa en protocolos, no en plataformas. Es una idea
+Es una idea que conecta a la gente directamente, de forma que no puede ser cerrada, censurada o detenida.
+censuradas, que no pueden detenerse. Los protocolos y estándares abiertos permiten
+ecosistema floreciente de proveedores de servicios que compiten, además de darle
+la opción de hacerlo todo tú mismo.

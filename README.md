@@ -1,23 +1,23 @@
-# [Value4Value.info](https://Value4Value.info/)
+# [Valor-X-Valor.VEINTIUNO.world](https://Valor-X-Valor.VEINTIUNO.world/)
 
-A site to explain the concepts and ideas around [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
+Un sitio para explicar los conceptos e ideas en torno a [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v) en inglés, o [#ValorXvalor](https://twitter.com/search?q=%valuexvalue%20OR%20%23v4v)
 
-### 💬 Join the discussion!
+### 💬 ¡Únete al debate!
 
-- Matrix: [Value4Value.chat](http://Value4Value.chat)
-- Twitter: [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
+- Matriz: [Value4Value.chat](http://Value4Value.chat) en inglés
+- Twitter: [#ValueXvalue](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
 
-### ✍️ Contribute
+### ✍️ Contribuir
 
-- See [CONTRIBUTING.md](https://github.com/V4V-info/V4V-info.github.io/blob/master/CONTRIBUTING.md)
-- [Pull requests](https://github.com/V4V-info/V4V-info.github.io/pulls) very welcome!
-- Have complaints or ideas? [Track an issue!](https://github.com/V4V-info/V4V-info.github.io/issues)
-- Feel free to [edit the doc](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#). If the changes make sense we'll update the site!
+- Ver [CONTRIBUTING.md](https://github.com/SuperAtic/V4V-info.github.io/blob/master/CONTRIBUTING.md)
+- Pull requests](https://github.com/SuperAtic/V4V-info.github.io/pulls) ¡muy bienvenidos!
+- ¿Tienes quejas o ideas? [Envía una incidencia](https://github.com/SuperAtic/V4V-info.github.io/issues)
+- Siéntete libre de [editar el documento](https://demo.hedgedoc.org/T-ms5vFFQc67H-WCU-rVng). Si los cambios tienen sentido, actualizaremos el sitio.
 
-For now, anyone can edit the doc. If that doesn't work we'll have to restrict access and figure something else out.
+Por ahora, cualquiera puede editar el documento. Si eso no funciona, tendremos que restringir el acceso y pensar en otra solución para collaborar.
 
 ---
 
-Live at [Value4Value.info](https://Value4Value.info/)
+En directo en [Valor-x-Valor.VEINTIUNO.world](Valor-x-Valor.VEINTIUNO.world)
 
-Born out of [podcastindex.social](https://podcastindex.social/) and the [podcast namespace](https://github.com/Podcastindex-org/podcast-namespace/discussions). Now expanding beyond podcasting.
+Nacido de [podcastindex.social](https://podcastindex.social/) y el [podcast namespace](https://github.com/Podcastindex-org/podcast-namespace/discussions). Ahora se expande más allá del podcasting.

@@ -1,14 +1,15 @@
 ---
-title: The V4V Pieces
+title: Las piezas del VxV 
 layout: pieces
-description: Pieces
+description: Piezas
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# The Pieces That Make It Work
+# Las piezas que lo hacen funcionar
 
-Value4Value is more than just streaming money. It is more than just direct
-payments. It is a different approach to media, a different approach to creating
-content, a different way of sharing value with the world.
+Value4Value es algo más que la transmisión de dinero. Es más que pagos
+directos. Es un enfoque diferente de los medios de comunicación, un enfoque
+ diferente de la creación de contenidos, una forma diferente de compartir 
+ valor con el mundo, una forma diferente de compartir valor con el mundo.

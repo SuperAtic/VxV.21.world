@@ -1,17 +1,17 @@
 ---
-title: "Content Format"
+title: "Formato del contenido"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-There isn't one content format when it comes to Value4Value. When it comes to podcasting, including your listeners into the feedback
-and content-creation loop is tried and tested.
+No existe un único formato de contenido cuando se trata de Value4Value. Cuando se trata de podcasting, incluir a sus oyentes en el bucle de retroalimentación y creación de contenidos está probado y comprobado.
+en el bucle de retroalimentación y creación de contenidos.
 
-By including your audience into [the feedback loop][loop] you create something
-bigger than yourself, something *participatory* and *reciprocal*.
+Al incluir a su audiencia en [el bucle de retroalimentación][bucle] crea algo
+más grande que uno mismo, algo *participativo* y *reciproco*.
 
-[loop]: {{ '/pieces/the-feedback-loop' | absolute_url }}
+[bucle]: {{ '/pieces/the-feedback-loop' | absolute_url }}
 
-From shout-outs to numerology, and honors to badges, many things can
-be added to your content in creative ways that include your audience into the
-content creation process.
+De los gritos a la numerología, y de los honores a las insignias, muchas cosas pueden
+muchas cosas pueden añadirse a su contenido de forma creativa, incluyendo a su audiencia en el proceso de creación de contenido.
+en el proceso de creación de contenidos.

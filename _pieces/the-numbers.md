@@ -1,10 +1,10 @@
 ---
-title: "The Numbers"
+title: "Los Numeros"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Only ~4% of people give value back, and that's okay. Some will give little, some
-will give a lot—that's just the way it seems to be.
+Sólo el 4% de la gente devuelve valor, y eso está bien. Algunos darán poco, otros
+mucho... así son las cosas.
 
-Somehow, however, it all works out in the end.
+Sin embargo, al final todo sale bien.

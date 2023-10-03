@@ -13,9 +13,9 @@ all figuring stuff out as we go along, so feel free to chime in!
 
 This site is a community effort. If you want to improve something, please do!
 
-- Repository: [V4V-info](https://github.com/V4V-info/V4V-info.github.io)
-- Something wrong or to be improved? [Open an issue!](https://github.com/V4V-info/V4V-info.github.io/issues)
-- Know what you're doing? [Open a PR!](https://github.com/V4V-info/V4V-info.github.io/pulls)
+- Repository: [V4V-info](https://github.com/SuperAtic/V4V-info.github.io)
+- Something wrong or to be improved? [Open an issue!](https://github.com/SuperAtic/V4V-info.github.io/issues)
+- Know what you're doing? [Open a PR!](https://github.com/SuperAtic/V4V-info.github.io/pulls)
 
 The V4V movement grew out of Podcasting 2.0, which was the first media type and
 applicable use-case. Most of the Value4Value discussions still revolve around

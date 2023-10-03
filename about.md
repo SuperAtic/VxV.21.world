@@ -5,24 +5,26 @@ description: About
 bodyClass: page-about
 ---
 
-Value4Value is more than meets the eye. It's a monetization model, a content
-format, and a way of life. It is about freedom and openness, connection and free
-speech, sound money and censorship resistance.
+Value4Value es más de lo que parece. Es un modelo de monetización, un contenido
+y un modo de vida. Se trata de libertad y apertura, conexión y libertad de expresión, dinero sano y resistencia a la censura.
+libertad de expresión, el dinero sólido y la resistencia a la censura.
 
 {% assign limit = 3 %}
-{% assign sorted_pieces = site.pieces | sort: 'weight' %}
-{% for piece in sorted_pieces limit: limit %}
+{% assign piezas_clasificadas = sitio.piezas | clasificar: 'peso' %}
+{% for pieza in piezas_clasificadas limit: limit %}
   - **{{ piece.title }}:** {{ piece.content | markdownify | strip_html | truncatewords: 33 }} [[more]]({{ piece.url | relative_url }})
 {% endfor %}
 
-There are [multiple pieces][pieces] that make it all work, not the least of
-which is bitcoin and its lightning network that allows the frictionless
-automation of micropayments. One of the most important things to understand is
-that information is _not_ scarce and thus has to be monetized and thought about
-differently. It is a crucial mental switch that is quite difficult to make at
-first: the switch from a mindset of scarcity to a mindset of abundance.
+Hay [múltiples piezas][pieces] que hacen que todo funcione, no menos importante de
+que es bitcoin y su red relámpago que permite la fricción sin
+automatización de micropagos. Una de las cosas más importantes que hay que entender es
+que la información _no_ es escasa y por lo tanto tiene que ser monetizada y pensada
+de otra manera. Se trata de un cambio mental crucial que es bastante difícil de hacer al principio.
+pasar de una mentalidad de escasez a una mentalidad de abundancia.
 
-[pieces]: {{ '/pieces' | absolute_url }}
+
+
+[pieces]: {{ '/piezas' | absolute_url }}
 
 > Podcasting really flipped the scarcity-based economy of radio broadcasting on
 > its head.

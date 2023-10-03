@@ -1,40 +1,40 @@
 ---
-title: "Monetization Model"
+title: "Modelo de Monetización"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Let's get one thing out of the way: monetizing non-scarce information is
-difficult. The default monetization model of the online world is advertisement,
-a model that relies heavily on surveillance and gameable analytics. V4V offers
-an alternative.
+Aclaremos una cosa: monetizar la información no escasa es
+difícil. El modelo de monetización por defecto del mundo online es la publicidad,
+un modelo que se basa en gran medida en la vigilancia y el análisis jugable. V4V ofrece
+una alternativa.
 
-Selling information outright doesn't work. Selling bits and bytes on a per-item
-basis is nonsensical, since bits and bytes are non-scarce. They can be
-replicated ad infinitum.
+La venta directa de información no funciona. Vender bits y bytes por artículo no tiene sentido.
+no tiene sentido, ya que los bits y bytes no son escasos. Pueden
+pueden reproducirse hasta el infinito.
 
-The V4V model flips monetization on its head. It leads with abundance:
-information is set free; no artificial barriers or restricitions are added to
-the content, whether it is audio, video, text, or something else. The value is
-given away freely, and those who find the information valuable are [asked][ask]
-to give back.
+El modelo V4V da la vuelta a la monetización. Lidera con la abundancia:
+la información se libera; no se añaden barreras artificiales ni restricciones al
+al contenido, ya sea audio, vídeo, texto o cualquier otra cosa. El valor se
+y a los que encuentran valiosa la información se les [pide] [solicita] que la devuelvan.
+que devuelvan.
 
-The main difference between a conventional transaction and a V4V transaction is
-that a V4V transaction is:
+La principal diferencia entre una transacción convencional y una transacción V4V es
+que una transacción V4V es
 
-- **voluntary**,
-- **unlimited**, and
-- **direct**.
+- **voluntaria**,
+- ilimitada
+- **directa**.
 
-[ask]: {{ '/pieces/the-ask' | absolute_url }}
+[ask]: {{ '/piezas/la-petición' | absolute_url }}
 
-V4V allows value and information to flow freely, without restrictions, and
-without middlemen. It is a different approach to monetizing bits and bytes
-online, as well as a different approach to creating content and value.
+V4V permite que el valor y la información fluyan libremente, sin restricciones, y
+sin intermediarios. Es un enfoque diferente de la monetización de bits y bytes
+en línea, así como un enfoque diferente de la creación de contenidos y valor.
 
-People will give whatever it is worth to them. Some might give the equivalent of
-$1, some will give $50, some will give $500 or more. 
+La gente dará lo que valga la pena para ellos. Algunos darán el equivalente a
+1 $, otros 50 $, otros 500 $ o más. 
 
-Intrigued? Follow one of the [guides][guides] to get started!
+¿Te interesa? ¡Sigue una de las [guías][guías] para empezar!
 
-[guides]: {{ '/guides' | absolute_url }}
+[guías]: {{ '/guías' | absolute_url }}
