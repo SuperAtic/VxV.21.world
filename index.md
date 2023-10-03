@@ -8,9 +8,9 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# A New Way to Think about Value
+# Una nueva forma de concebir el Valor
 
-Value4Value es un modelo de monetización, un formato de contenidos y un modo
+Valor X Valor es un modelo de monetización, un formato de contenidos y un modo
 de vida. Se trata de libertad y apertura, conexión y libertad de expresión, 
 dinero sólido y resistencia a la censura. El mayor éxito hasta la fecha del V4V 
 aplicado es [Podcasting 2.0](https://podcastindex.org/podcast/920666). 
