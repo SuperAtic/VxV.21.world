@@ -1,12 +1,12 @@
 baseurl: '/'
 permalink: pretty
-title: 'V4V'
+title: 'VxV'
 
 logo:
-  wobile: "images/logo/logo-mobile.svg"
+  wobile: "images/logo/logo-wobile.svg"
   wobile_height: "64px"
   wobile_width: "64px"
-  mobile: "images/logo/logo-mobile-w.svg"
+  mobile: "images/logo/logo-mobile.svg"
   mobile_height: "64px"
   mobile_width: "64px"
   desktop: "images/logo/logo.svg"
