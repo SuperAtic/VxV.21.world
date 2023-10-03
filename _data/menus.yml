@@ -1,24 +1,24 @@
 main:
-  - name: "Philosophy"
+  - name: "Philosofìa"
     url: "/about/"
     weight: 1
-  - name: "Pieces"
+  - name: "Piezas"
     url: "/pieces/"
     weight: 2
   # - name: "People"
   #   url: "/team/"
   #   weight: 3
-  - name: "Guides"
+  - name: "Guías"
     url: "/guides/"
     weight: 4
-  - name: "Contribute"
+  - name: "Contribuye"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Inicio"
     url: "/"
     weight: 1
-  - name: "Contribute"
+  - name: "Contribuir"
     url: "/contact/"
     weight: 2
