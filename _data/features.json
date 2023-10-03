@@ -1,7 +1,7 @@
 [
   {
-    "title": "Time",
-    "description": "Your time & attention are valuable. Spending them is valuable in and of itself.",
+    "title": "Tiempo",
+    "description": "Tu tiempo y tu atención son valiosos. Dedicarlos es valioso en sí mismo.",
     "image": {
       "url": "images/features/time.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Talent",
-    "description": "It doesn't have to be money. Whatever your skills, there are many ways to give back.",
+    "title": "Talennto",
+    "description": "No tiene por qué ser dinero. Sean cuales sean tus habilidades, hay muchas formas de devolver.",
     "image": {
       "url": "images/features/talent.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Treasure",
-    "description": "Thanks to Lightning, monetary value can be exchanged instantly without friction.",
+    "title": "Tesoro",
+    "description": "Gracias a Lightning, el valor monetario puede intercambiarse instantáneamente sin fricciones.",
     "image": {
       "url": "images/features/treasure.svg",
       "width": 80,

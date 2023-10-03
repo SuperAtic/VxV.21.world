@@ -15,4 +15,4 @@ sobre el medio del podcasting.
 - Guía del podcaster](https://fountain.fm/podcaster-guide) de Fountain
 - Podcasterwallet.com](https://podcasterwallet.com/) de Podcast Index
 
-¿Falta tu guía favorita? [Abrir una incidencia](https://github.com/SuperAtic/V4V-info.github.io/issues)
+¿Falta tu guía favorita? [Abrir una incidencia](https://github.com/SuperAtic/VxV.21.world/issues)

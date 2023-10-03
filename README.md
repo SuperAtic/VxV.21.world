@@ -9,9 +9,9 @@ Un sitio para explicar los conceptos e ideas en torno a [#Value4Value](https://t
 
 ### ✍️ Contribuir
 
-- Ver [CONTRIBUTING.md](https://github.com/SuperAtic/V4V-info.github.io/blob/master/CONTRIBUTING.md)
-- Pull requests](https://github.com/SuperAtic/V4V-info.github.io/pulls) ¡muy bienvenidos!
-- ¿Tienes quejas o ideas? [Envía una incidencia](https://github.com/SuperAtic/V4V-info.github.io/issues)
+- Ver [CONTRIBUTING.md](https://github.com/SuperAtic/VxV.21.world/blob/master/CONTRIBUTING.md)
+- Pull requests](https://github.com/SuperAtic/VxV.21.world/pulls) ¡muy bienvenidos!
+- ¿Tienes quejas o ideas? [Envía una incidencia](https://github.com/SuperAtic/VxV.21.world/issues)
 - Siéntete libre de [editar el documento](https://demo.hedgedoc.org/T-ms5vFFQc67H-WCU-rVng). Si los cambios tienen sentido, actualizaremos el sitio.
 
 Por ahora, cualquiera puede editar el documento. Si eso no funciona, tendremos que restringir el acceso y pensar en otra solución para collaborar.
