@@ -6,21 +6,21 @@ weight: 1
 
 Aclaremos una cosa: monetizar la información no escasa es
 difícil. El modelo de monetización por defecto del mundo online es la publicidad,
-un modelo que se basa en gran medida en la vigilancia y el análisis jugable. V4V ofrece
+un modelo que se basa en gran medida en la vigilancia y el análisis jugable. VxV ofrece
 una alternativa.
 
 La venta directa de información no funciona. Vender bits y bytes por artículo no tiene sentido.
 no tiene sentido, ya que los bits y bytes no son escasos. Pueden
 pueden reproducirse hasta el infinito.
 
-El modelo V4V da la vuelta a la monetización. Lidera con la abundancia:
+El modelo VxV da la vuelta a la monetización. Lidera con la abundancia:
 la información se libera; no se añaden barreras artificiales ni restricciones al
 al contenido, ya sea audio, vídeo, texto o cualquier otra cosa. El valor se
 y a los que encuentran valiosa la información se les [pide] [solicita] que la devuelvan.
 que devuelvan.
 
-La principal diferencia entre una transacción convencional y una transacción V4V es
-que una transacción V4V es
+La principal diferencia entre una transacción convencional y una transacción VxV es
+que una transacción VxV es
 
 - **voluntaria**,
 - ilimitada
@@ -28,7 +28,7 @@ que una transacción V4V es
 
 [ask]: {{ '/piezas/la-petición' | absolute_url }}
 
-V4V permite que el valor y la información fluyan libremente, sin restricciones, y
+VxV permite que el valor y la información fluyan libremente, sin restricciones, y
 sin intermediarios. Es un enfoque diferente de la monetización de bits y bytes
 en línea, así como un enfoque diferente de la creación de contenidos y valor.
 

@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 description: Guías
 ---
 
-Varias personas han escrito guías sobre cómo empezar con V4V, especialmente
+Varias personas han escrito guías sobre cómo empezar con VxV, especialmente
 sobre el medio del podcasting.
 
 - Como empezar con el Podcasting 2.0](http://adam.curry.com/html/HowtoreceiveBitcoini-BrxM2PDPNJ7Zzbz7G28xk4H0D658fH.html) por Adam Curry

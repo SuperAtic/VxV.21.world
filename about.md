@@ -1,5 +1,5 @@
 ---
-title: The V4V Philosophy
+title: The VxV Philosophy
 layout: page
 description: About
 bodyClass: page-about
@@ -33,16 +33,16 @@ pasar de una mentalidad de escasez a una mentalidad de abundancia.
 
 ---
 
-[![Adam talking V4V @ BitBlockBoom 2022](/images/bitblockboom.jpg)](https://youtu.be/8RNsFNyCHL4?t=19964)
+[![Adam talking VxV @ BitBlockBoom 2022](/images/bitblockboom.jpg)](https://youtu.be/8RNsFNyCHL4?t=19964)
 
 Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-Listen to Adam talk V4V on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/):
-[![Adam talking V4V on TFTC](/images/409-Adam-Curry.png)](https://youtu.be/meAO2plwnXw)
+Listen to Adam talk VxV on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/):
+[![Adam talking VxV on TFTC](/images/409-Adam-Curry.png)](https://youtu.be/meAO2plwnXw)
 
 ---
 
-The V4V model provides a solution to the problem of selling information. A
+The VxV model provides a solution to the problem of selling information. A
 solution that allows you to step away from the attention and surveillance
 economy, towards an economy of _value_, openness, and abundance.
 

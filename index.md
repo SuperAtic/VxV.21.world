@@ -12,6 +12,6 @@ show_call_box: true
 
 Valor X Valor (VxV) es un modelo de monetización, un formato de contenidos y un modo
 de vida. Se trata de libertad y apertura, conexión y libertad de expresión, 
-dinero sólido y resistencia a la censura. El mayor éxito hasta la fecha del V4V 
+dinero sólido y resistencia a la censura. El mayor éxito hasta la fecha del VxV 
 aplicado es [Podcasting 2.0](https://podcastindex.org/podcast/920666). 
-Los [zaps] de Nostr (https://nostr-resources.com/#receiving-zaps) son otro ejemplo.
+Los [zaps](https://nostr-resources.com/#receiving-zaps) de Nostr son otro ejemplo.

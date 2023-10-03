@@ -4,7 +4,7 @@ date: 2019-05-18T12:33:46+10:00
 weight: 10
 ---
 
-Las plataformas y los proveedores de pago tienen el poder de censurar, un poder que V4V
+Las plataformas y los proveedores de pago tienen el poder de censurar, un poder que VxV
 elimina. Al eliminar a los intermediarios y permitir el alojamiento y la monetización
 monetización, el modelo Value4Value te sitúa a ti y a tu audiencia en el centro.
 centro.
@@ -19,7 +19,7 @@ por falta de identidad.
 
 Por suerte, bitcoin soluciona esto. Ofrece servicios bancarios a los no bancarizados y resistencia a la censura a quienes más la necesitan.
 a quienes más lo necesitan. La libertad de expresión y la libre transferencia de
-el núcleo del movimiento V4V, y por eso bitcoin es una pieza tan importante del rompecabezas.
+el núcleo del movimiento VxV, y por eso bitcoin es una pieza tan importante del rompecabezas.
 del rompecabezas.
 
 

@@ -1,11 +1,11 @@
 # [Valor-X-Valor.VEINTIUNO.world](https://Valor-X-Valor.VEINTIUNO.world/)
 
-Un sitio para explicar los conceptos e ideas en torno a [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v) en inglés, o [#ValorXvalor](https://twitter.com/search?q=%valuexvalue%20OR%20%23v4v)
+Un sitio para explicar los conceptos e ideas en torno a [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23VxV) en inglés, o [#ValorXvalor](https://twitter.com/search?q=%valuexvalue%20OR%20%23VxV)
 
 ### 💬 ¡Únete al debate!
 
 - Matriz: [Value4Value.chat](http://Value4Value.chat) en inglés
-- Twitter: [#ValueXvalue](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
+- Twitter: [#ValueXvalue](https://twitter.com/search?q=%23value4value%20OR%20%23VxV)
 
 ### ✍️ Contribuir
 

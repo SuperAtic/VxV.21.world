@@ -8,7 +8,7 @@ Value4Value es más que un plan de monetización: es un estilo de vida. Es una
 Es una mentalidad de abundancia y equidad, una nueva forma de ver el valor.
 valor en general, pero valor digital en particular.
 
-Es difícil definir el estilo de vida V4V, pero podría resumirse así
+Es difícil definir el estilo de vida VxV, pero podría resumirse así
 así:
 
 - Sin expectativas
