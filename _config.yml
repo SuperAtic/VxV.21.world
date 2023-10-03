@@ -3,9 +3,9 @@ permalink: pretty
 title: 'V4V'
 
 logo:
-  mobile_w: "images/logo/logo-mobile.svg"
-  mobile_w_height: "64px"
-  mobile_w_width: "64px"
+  wobile: "images/logo/logo-mobile.svg"
+  wobile_height: "64px"
+  wobile_width: "64px"
   mobile: "images/logo/logo-mobile-w.svg"
   mobile_height: "64px"
   mobile_width: "64px"
