@@ -1,7 +1,7 @@
 ---
-title: The VxV Philosophy
+title: La Filosofía VxV
 layout: page
-description: About
+description: Filosofía
 bodyClass: page-about
 ---
 
