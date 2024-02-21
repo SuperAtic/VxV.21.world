@@ -4,22 +4,34 @@ layout: contact
 description: Contact
 ---
 
-While the Value4Value concept has existed for a while, the frictionless
-value-transfer made possible by streaming and boosting sats is rather new. We're
-all figuring stuff out as we go along, so feel free to chime in!
+Aunque el concepto Value4Value existe desde hace tiempo, la transferencia de valor sin fricciones que permiten el streaming y el aumento de la saturación es bastante nueva. Vamos descubriendo cosas sobre la marcha, así que no dudes en comentarlas!
 
 - Matrix: [VxV.chat](http://VxV.chat) / [Value4Value.chat](http://Value4Value.chat)
 - Twitter: [#VxV](https://twitter.com/search?q=%23value4value OR %23VxV)
 
-This site is a community effort. If you want to improve something, please do!
+Este sitio es un esfuerzo comunitario. Si quieres mejorar algo, ¡hazlo!
 
-- Repository: [VxV-info](https://github.com/SuperAtic/VxV.21.world)
-- Something wrong or to be improved? [Open an issue!](https://github.com/SuperAtic/VxV.21.world/issues)
-- Know what you're doing? [Open a PR!](https://github.com/SuperAtic/VxV.21.world/pulls)
+- Repositorio: [VxV-info](https://github.com/SuperAtic/VxV.21.world)
+- ¿Algo está mal o debe mejorarse? [¡Abre una incidencia!](https://github.com/SuperAtic/VxV.21.world/issues)
+- ¿Sabes lo que haces?  [¡Abre un PR!](https://github.com/SuperAtic/VxV.21.world/pulls)
 
-The VxV movement grew out of Podcasting 2.0, which was the first media type and
-applicable use-case. Most of the Value4Value discussions still revolve around
-podcasting. Join in!
+El movimiento VxV surgió a partir del Podcasting 2.0, que fue el primer tipo de medio y caso de uso aplicable. La mayoría de los debates sobre Value4Value siguen girando en torno al podcasting. 
+¡Participa!
 
 - Mastodon: [podcastindex.social](https://podcastindex.social)
 - GitHub: [podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace/discussions)
+
+Te ha gustado lo que has aprendido?
+
+No dudes en dejarnos unos `sats`
+
+<lightning-widget 
+  name="VEIINTIUNO.world" 
+  accent="#ff9500" 
+  to="veintiuno@getalby.com" 
+  image="https://veintiuno.world/wp-content/uploads/sites/99/2023/02/veinti-uno-21.png" 
+  amounts="21,210,2100"
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+LNURL: `LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPUXGWPNX5UKGWPCX5CRSDEE8Y6RGX7VS5M`

@@ -1,18 +1,18 @@
 # Contributing to [Value4Value.info](https://Value4Value.info/)
 
-First off, thanks for taking the time to contribute! 
+En primer lugar, ¡gracias por dedicar tu tiempo a contribuir! 
 
-All types of contributions are encouraged and valued.
+Todas las contribuciones son bienvenidas y valoradas.
 
-- Join the [Value4Value.chat](http://Value4Value.chat)!
-- Have complaints or ideas? [Track an issue!](https://github.com/SuperAtic/VxV.21.world/issues)
+- Unete al [Value4Value.chat](http://Value4Value.chat)!
+- ¿Algo está mal o debe mejorarse? [¡Abre una incidencia!](https://github.com/SuperAtic/VxV.21.world/issues)
 - Logo or design improvements? Show us what you got in an [issue](https://github.com/SuperAtic/VxV.21.world/issues) or [PR](https://github.com/SuperAtic/VxV.21.world/pulls)!
-- Feel free to [edit the document](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#). We'll monitor the doc for changes periodically, and if they make sense we'll update the site!
-- If you know your way around Jekyll and markdown files, [pull requests](https://github.com/SuperAtic/VxV.21.world/pulls) are always welcome!
+- Siéntase libre de [editar el documento](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#) Supervisaremos periódicamente el documento en busca de cambios y, si tienen sentido, actualizaremos el sitio.
+- Si conoce Jekyll y los archivos markdown, ¡[pull requests](https://github.com/SuperAtic/VxV.21.world/pulls) son siempre bienvenidos!
 
-For now, anyone can [edit the doc](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#). If that doesn't work we'll have to restrict access and figure something else out.
+Por ahora, cualquiera puede [editar el documento](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#). Si eso no funciona, tendremos que restringir el acceso y pensar en otra cosa.
 
-## Code of Conduct
+## Código de conducta
 
-Resist the urge to be an asshole.
+Resiste el impulso de ser un gilipollas ;)
 

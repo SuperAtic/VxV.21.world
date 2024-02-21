@@ -26,8 +26,7 @@ pasar de una mentalidad de escasez a una mentalidad de abundancia.
 
 [pieces]: {{ '/piezas' | absolute_url }}
 
-> El podcasting realmente dio la vuelta a la economía basada en la escasez de la radiodifusión en su cabeza.
->
+> El podcasting ha puesto patas arriba la economía de la radio, basada en la escasez.
 > <cite>[Adam Curry](https://youtu.be/8RNsFNyCHL4?t=19964)</cite>
 
 ---
